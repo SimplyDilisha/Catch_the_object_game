@@ -29,7 +29,7 @@ python catch_the_object.py
 # 🎨 Controls
 Action	Key
 `Move left`	`Left arrow`
-`Move right``Right arrow`
+`Move right` `Right arrow`
 `Quit game`	`Close the window`
 
 # ✨ Tips
